@@ -1003,6 +1003,7 @@ blink {
   .cart-list.dropdown-menu {
     margin-top: 15px;
   }
+<<<<<<< HEAD
   /* .page-banner {
     height: 130px !important;
   } */
@@ -1011,6 +1012,11 @@ blink {
         height: 85px !important;
     }
 }
+=======
+  .page-banner {
+    height: 130px !important;
+  }
+>>>>>>> cdee5df9d820b9d9dbae738d70fb41bca38382e7
   .secondary-inner ul li {
     display: none !important;
   }
@@ -2914,7 +2920,11 @@ pre {
     width: 100%;
   }
   .page-banner {
+<<<<<<< HEAD
     height: 195px;
+=======
+    height: 175px;
+>>>>>>> cdee5df9d820b9d9dbae738d70fb41bca38382e7
   }
   .page-banner h1 {
     font-size: 36px;
@@ -9642,8 +9652,12 @@ body {
     font-size: 18px;
   }
   .page-banner {
+<<<<<<< HEAD
     /* height: 130px; */
     max-height: 95px;
+=======
+    height: 130px;
+>>>>>>> cdee5df9d820b9d9dbae738d70fb41bca38382e7
   }
   h4 {
     font-size: 22px;
